@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-09-24T22:02:23.508Z" agent="5.0 (X11)" version="13.7.5" etag="B12ITEPJ8fXcAo9mTQtO" type="github"><diagram id="EPMpIEe7ug_O9b62MmPM">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-09-24T22:10:27.078Z" agent="5.0 (X11)" etag="GP9bUCRu1369EAXpTWtP" version="13.7.5" type="github">
+  <diagram id="EPMpIEe7ug_O9b62MmPM" name="Page-1">
+    <mxGraphModel dx="1837" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CrEtwg7Fl6m3hIxUlRlt-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CrEtwg7Fl6m3hIxUlRlt-1" target="CrEtwg7Fl6m3hIxUlRlt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CrEtwg7Fl6m3hIxUlRlt-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CrEtwg7Fl6m3hIxUlRlt-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="448" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="CrEtwg7Fl6m3hIxUlRlt-12" value="&lt;font face=&quot;Lucida Console&quot;&gt;192.168.50&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="243" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CrEtwg7Fl6m3hIxUlRlt-13" value="&lt;font face=&quot;Lucida Console&quot;&gt;192.168.50&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
